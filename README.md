@@ -1,7 +1,7 @@
 # DropShare
 
 <p align="center">
-  <img src="DropShare.ico" alt="DropShare Logo" width="128">
+  <img src="https://i.imgur.com/INXlgpI.png" alt="DropShare Logo" width="128">
 </p>
 
 <h1 align="center">DropShare</h1>
